@@ -9,6 +9,6 @@ after_success:
 
 env:
  global:
-  - TDDBIN_ROOT_URL: https://tddbin.com
+  - TDDBIN_ROOT_URL: https://yunqiangwu.github.io/tddbin-frontend
   - GH_EMAIL: w+travis-for-tddbin@kriesing.de
-  - GH_REF: github.com/tddbin/katas.git
+  - GH_REF: github.com/yunqiangwu/katas.git
